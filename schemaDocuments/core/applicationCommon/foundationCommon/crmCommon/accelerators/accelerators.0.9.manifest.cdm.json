@@ -1,0 +1,13 @@
+{
+    "$schema": "CdmManifest.cdm.json",
+    "jsonSchemaSemanticVersion": "0.9.0",
+    "imports": [],
+    "manifestName": "accelerators",
+    "explanation": "CDM Accelerators",
+  "subManifests": [    
+    {
+      "manifestName": "utilites",
+      "definition": "utilites/utilites.0.9.manifest.cdm.json"
+    }
+  ]
+}
